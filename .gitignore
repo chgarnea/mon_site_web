@@ -1,3 +1,4 @@
 *.xml
 *.jpg
+tmp/*.xml
 *.txt
